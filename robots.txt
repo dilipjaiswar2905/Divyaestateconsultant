@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dilipjaiswar2905.github.io/Divyaestateconsultant/sitemap.xml
+Sitemap: https://www.divyaestateconsultant.in/sitemap.xml
